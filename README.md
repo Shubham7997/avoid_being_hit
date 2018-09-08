@@ -1,4 +1,4 @@
-echo "# avoid_being_hit" >> README.md
+# avoid_being_hit
 git init
 git add README.md
 git commit -m "first commit"
